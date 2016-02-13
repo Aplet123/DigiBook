@@ -1,0 +1,15 @@
+var pageNum=0;
+var pageHeadings=["How To Get Good Grades","Introduction","Step 1","Step 2","Step 3","Step 4","Step 5","Step 6","Step 7","Step 8"];
+var pageBodies=
+[
+"by Dr. An",
+"This book includes a multi-step process on how to get good grades.",
+"<span class='bold'>Do your homework.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This step seems simple and self-explanatory, but most people with bad grades don't do it. Some tricks to do your homework are:<br><ol><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='underline'>Start your homework.</span> When you start your homework you have a mental commitment to finish it.</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='underline'>Have the mindset that now is better than later.</span> Procrastinating is a huge factor in missed homework.</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='underline'>Write down all your homework in a planner so you don't forget.</span> Also consider a homework section in your binder.</li></ol>",
+"<span class='bold'>Pay attention in class.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This step also seems self-explanatory but if you don't do it, you won't know what to do. You should try to move away from distractions like your friend and find a spot where you can clearly see the teacher.",
+"<span class='bold'>Check your grades.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have bad grades and you check your grades, you can fix it. If you don't check your grades, you won't even know.",
+"<span class='bold'>Study for tests.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Review your homework and previous tests to help you. You can also write down what you've learned on a sheet of paper to help you memorize. You can also \"teach\" the knowledge to your parents to help your memorization.",
+"<span class='bold'>Keep your homework and tests.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It can help you learn from your mistakes and it can help you study for your tests. You can also use sticky notes to cover up the homework/test and \"retake\" it.",
+"<span class='bold'>Ask questions when unclear.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can't do everything by yourself. When there are unclear ideas don't tough it out. Ask the teacher to explain it again to you so you know what to do on your test.",
+"<span class='bold'>Remove clutter from your desk.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you remove clutter from your desk you give more workspace and reduce stress. Less stress means that you can focus better and better focus improves your attention.",
+"<span class='bold'>Stock up on supplies.</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have lots of sharp pencils so you don't have to worry about writing. Also have plenty of good erasers so you and your teachers can read your papers. Also have plenty of paper to write your ideas on. Highlighters for annotating are also a good idea."
+];
