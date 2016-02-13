@@ -12,6 +12,7 @@ p
 	background-color: LightGray;
 	margin:auto;
 	width: 50%;
+	height:600px;
 	border: ridge;
 }
 .book
@@ -19,7 +20,7 @@ p
 	background-color: Ivory;
 	margin:auto;
 	width: 99%;
-	height: 90%;
+	height: 490px;
 	border: ridge;
 }
 .bold
