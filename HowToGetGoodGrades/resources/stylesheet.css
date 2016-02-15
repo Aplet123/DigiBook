@@ -1,87 +1,88 @@
-body
-{
-	background-color: SkyBlue;
+body {
+    background-color: SkyBlue;
 }
-p
-{
-	font-family: "Comic Sans MS",cursive,sans-serif;
-	font-size:15px;
+
+p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 15px;
 }
-.main
-{
-	background-color: LightGray;
-	margin:auto;
-	width: 50%;
-	height:600px;
-	border: ridge;
+
+.main {
+    background-color: LightGray;
+    margin: auto;
+    width: 50%;
+    height: 600px;
+    border: ridge;
 }
-.book
-{
-	background-color: Ivory;
-	margin:auto;
-	width: 99%;
-	height: 490px;
-	border: ridge;
+
+.book {
+    background-color: Ivory;
+    margin: auto;
+    width: 99%;
+    height: 490px;
+    border: ridge;
 }
-.bold
-{
-	font-weight: bold;
+
+.bold {
+    font-weight: bold;
 }
-.italic
-{
-	font-style: italic;
+
+.italic {
+    font-style: italic;
 }
-.underline
-{
-	text-decoration: underline;
+
+.underline {
+    text-decoration: underline;
 }
-.strikeout
-{
-	text-decoration: line-through;
+
+.strikeout {
+    text-decoration: line-through;
 }
-.overline
-{
-	text-decoration: overline;
+
+.overline {
+    text-decoration: overline;
 }
-button
-{
-	background-color: Ivory;
-	font-family:"Comic Sans MS",cursive,sans-serif;
-	font-size: 25px;
-	cursor:pointer;
+
+button {
+    background-color: Ivory;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    cursor: pointer;
 }
-p
-{
-	cursor:default;
+
+p {
+    cursor: default;
 }
-#back,#next
-{
-	height:100px;
-	width:100px;
+
+#back,
+#next {
+    height: 100px;
+    width: 100px;
 }
-#back.grayOut,#next.grayOut
-{
-	background-color: LightGray;
-	color: Gray;
-	cursor:not-allowed;
+
+#back.grayOut,
+#next.grayOut {
+    background-color: LightGray;
+    color: Gray;
+    cursor: not-allowed;
 }
-#logo
-{
-	font-size: 35px;
-	display:inline;
-	padding-left: 150px;
+
+#logo {
+    font-size: 35px;
+    display: inline;
+    padding-left: 150px;
 }
-#heading
-{
-	text-align: center;
-	font-size: 25px;
-	font-weight: bold;
+
+#heading {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
 }
-#pageBar
-{
-	padding-left:100%;
+
+#pageBar {
+    padding-left: 100%;
 }
-#pageCount
-{
-	text-align: center;
+
+#pageCount {
+    text-align: center;
 }
